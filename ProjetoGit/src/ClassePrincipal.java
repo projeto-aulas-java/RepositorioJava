@@ -9,6 +9,8 @@ public class ClassePrincipal {
 		
 		if(idade > 18) {
 			System.out.println("Okay");
+		}else {
+			System.out.println("Erro!");
 		}
 
 	}
